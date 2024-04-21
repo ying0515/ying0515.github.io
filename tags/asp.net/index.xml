@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASP.NET on Tony的學習筆記</title>
+    <link>https://ying0515.github.io/tags/asp.net/</link>
+    <description>Recent content in ASP.NET on Tony的學習筆記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 06 Sep 2015 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://ying0515.github.io/tags/asp.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure雲端網站開發</title>
+      <link>https://ying0515.github.io/blog/certificate-19/</link>
+      <pubDate>Sun, 06 Sep 2015 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-19/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ASP.NET Identity開發實戰</title>
+      <link>https://ying0515.github.io/blog/certificate-17/</link>
+      <pubDate>Sun, 05 Oct 2014 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-17/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LINQ 強者之道</title>
+      <link>https://ying0515.github.io/blog/certificate-18/</link>
+      <pubDate>Sun, 05 Oct 2014 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-18/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ASP.NET 4 網站開發實務</title>
+      <link>https://ying0515.github.io/blog/certificate-13/</link>
+      <pubDate>Sat, 12 Nov 2011 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-13/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

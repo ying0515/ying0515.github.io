@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tony的學習筆記</title>
+    <link>https://ying0515.github.io/categories/</link>
+    <description>Recent content in Categories on Tony的學習筆記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 14 Oct 2023 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://ying0515.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>證照</title>
+      <link>https://ying0515.github.io/categories/%E8%AD%89%E7%85%A7/</link>
+      <pubDate>Sat, 14 Oct 2023 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/categories/%E8%AD%89%E7%85%A7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>結業證書</title>
+      <link>https://ying0515.github.io/categories/%E7%B5%90%E6%A5%AD%E8%AD%89%E6%9B%B8/</link>
+      <pubDate>Sat, 18 Aug 2018 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/categories/%E7%B5%90%E6%A5%AD%E8%AD%89%E6%9B%B8/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

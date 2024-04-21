@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Developer on Tony的學習筆記</title>
+    <link>https://ying0515.github.io/tags/developer/</link>
+    <description>Recent content in Developer on Tony的學習筆記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 14 Oct 2023 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://ying0515.github.io/tags/developer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Certified C# Developer</title>
+      <link>https://ying0515.github.io/blog/certificate-23/</link>
+      <pubDate>Sat, 14 Oct 2023 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-23/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Certified SQL Developer</title>
+      <link>https://ying0515.github.io/blog/certificate-24/</link>
+      <pubDate>Sat, 14 Oct 2023 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-24/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xamarin.Forms掛平台行動應用程式開發實戰</title>
+      <link>https://ying0515.github.io/blog/certificate-3/</link>
+      <pubDate>Sat, 29 Oct 2016 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ASP.NET Web API2開發實戰</title>
+      <link>https://ying0515.github.io/blog/certificate-4/</link>
+      <pubDate>Wed, 29 Jun 2016 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microsoft Azure 網站應用程式開發實戰</title>
+      <link>https://ying0515.github.io/blog/certificate-1/</link>
+      <pubDate>Sun, 26 Jun 2016 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visual Studio 2015開發與偵錯技巧</title>
+      <link>https://ying0515.github.io/blog/certificate-2/</link>
+      <pubDate>Sun, 21 Feb 2016 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript開發實戰</title>
+      <link>https://ying0515.github.io/blog/certificate-6/</link>
+      <pubDate>Sat, 12 Dec 2015 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ASP.NET MVC 5開發實戰</title>
+      <link>https://ying0515.github.io/blog/certificate-10/</link>
+      <pubDate>Sun, 26 Jul 2015 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-10/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

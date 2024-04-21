@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>前端工程 on Tony的學習筆記</title>
+    <link>https://ying0515.github.io/tags/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B/</link>
+    <description>Recent content in 前端工程 on Tony的學習筆記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 29 Oct 2015 10:07:47 +0600</lastBuildDate>
+    <atom:link href="https://ying0515.github.io/tags/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>前端工程應用實戰</title>
+      <link>https://ying0515.github.io/blog/certificate-7/</link>
+      <pubDate>Thu, 29 Oct 2015 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-7/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

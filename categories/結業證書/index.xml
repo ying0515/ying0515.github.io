@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>結業證書 on Tony的學習筆記</title>
+    <link>https://ying0515.github.io/categories/%E7%B5%90%E6%A5%AD%E8%AD%89%E6%9B%B8/</link>
+    <description>Recent content in 結業證書 on Tony的學習筆記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 18 Aug 2018 10:07:47 +0600</lastBuildDate>
+    <atom:link href="https://ying0515.github.io/categories/%E7%B5%90%E6%A5%AD%E8%AD%89%E6%9B%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.NET C# 開發實戰相依注入</title>
+      <link>https://ying0515.github.io/blog/certificate-11/</link>
+      <pubDate>Sat, 18 Aug 2018 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-11/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xamarin.Forms掛平台行動應用程式開發實戰</title>
+      <link>https://ying0515.github.io/blog/certificate-3/</link>
+      <pubDate>Sat, 29 Oct 2016 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ASP.NET Web API2開發實戰</title>
+      <link>https://ying0515.github.io/blog/certificate-4/</link>
+      <pubDate>Wed, 29 Jun 2016 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microsoft Azure 網站應用程式開發實戰</title>
+      <link>https://ying0515.github.io/blog/certificate-1/</link>
+      <pubDate>Sun, 26 Jun 2016 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>軟體架構師技能培訓-UML與C#</title>
+      <link>https://ying0515.github.io/blog/certificate-20/</link>
+      <pubDate>Sun, 24 Apr 2016 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-20/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>使用Jenkins CI與Azure架構連續性整合方案</title>
+      <link>https://ying0515.github.io/blog/certificate-5/</link>
+      <pubDate>Sun, 10 Apr 2016 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>軟體需求塑模與需求規格文件撰寫實務班</title>
+      <link>https://ying0515.github.io/blog/certificate-21/</link>
+      <pubDate>Sun, 13 Mar 2016 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-21/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visual Studio 2015開發與偵錯技巧</title>
+      <link>https://ying0515.github.io/blog/certificate-2/</link>
+      <pubDate>Sun, 21 Feb 2016 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript開發實戰</title>
+      <link>https://ying0515.github.io/blog/certificate-6/</link>
+      <pubDate>Sat, 12 Dec 2015 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>前端工程應用實戰</title>
+      <link>https://ying0515.github.io/blog/certificate-7/</link>
+      <pubDate>Thu, 29 Oct 2015 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AngularJS開發實戰</title>
+      <link>https://ying0515.github.io/blog/certificate-12/</link>
+      <pubDate>Sat, 12 Sep 2015 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-12/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure雲端網站開發</title>
+      <link>https://ying0515.github.io/blog/certificate-19/</link>
+      <pubDate>Sun, 06 Sep 2015 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-19/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ASP.NET MVC 5開發實戰</title>
+      <link>https://ying0515.github.io/blog/certificate-10/</link>
+      <pubDate>Sun, 26 Jul 2015 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-10/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>自動測試與TDD實務開發</title>
+      <link>https://ying0515.github.io/blog/certificate-15/</link>
+      <pubDate>Sat, 16 May 2015 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-15/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>說話高手-口語表達技巧</title>
+      <link>https://ying0515.github.io/blog/certificate-22/</link>
+      <pubDate>Sun, 25 Jan 2015 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-22/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ASP.NET Identity開發實戰</title>
+      <link>https://ying0515.github.io/blog/certificate-17/</link>
+      <pubDate>Sun, 05 Oct 2014 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-17/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Framework設計與NuGet企業應用</title>
+      <link>https://ying0515.github.io/blog/certificate-16/</link>
+      <pubDate>Sun, 05 Oct 2014 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-16/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LINQ 強者之道</title>
+      <link>https://ying0515.github.io/blog/certificate-18/</link>
+      <pubDate>Sun, 05 Oct 2014 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-18/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ASP.NET 4 網站開發實務</title>
+      <link>https://ying0515.github.io/blog/certificate-13/</link>
+      <pubDate>Sat, 12 Nov 2011 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-13/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>.NET Framework 4核心程式設計</title>
+      <link>https://ying0515.github.io/blog/certificate-14/</link>
+      <pubDate>Sat, 01 Oct 2011 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-14/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

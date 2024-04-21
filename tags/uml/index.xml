@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UML on Tony的學習筆記</title>
+    <link>https://ying0515.github.io/tags/uml/</link>
+    <description>Recent content in UML on Tony的學習筆記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 24 Apr 2016 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://ying0515.github.io/tags/uml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>軟體架構師技能培訓-UML與C#</title>
+      <link>https://ying0515.github.io/blog/certificate-20/</link>
+      <pubDate>Sun, 24 Apr 2016 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-20/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

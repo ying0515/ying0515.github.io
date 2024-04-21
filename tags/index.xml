@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tony的學習筆記</title>
+    <link>https://ying0515.github.io/tags/</link>
+    <description>Recent content in Tags on Tony的學習筆記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 14 Oct 2023 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://ying0515.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C#</title>
+      <link>https://ying0515.github.io/tags/c</link>
+      <pubDate>Sat, 14 Oct 2023 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/tags/c</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Developer</title>
+      <link>https://ying0515.github.io/tags/developer/</link>
+      <pubDate>Sat, 14 Oct 2023 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/tags/developer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL</title>
+      <link>https://ying0515.github.io/tags/sql/</link>
+      <pubDate>Sat, 14 Oct 2023 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/tags/sql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dependency Injection</title>
+      <link>https://ying0515.github.io/tags/dependency-injection/</link>
+      <pubDate>Sat, 18 Aug 2018 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/tags/dependency-injection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xamarin.Forms</title>
+      <link>https://ying0515.github.io/tags/xamarin.forms/</link>
+      <pubDate>Sat, 29 Oct 2016 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/tags/xamarin.forms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web API</title>
+      <link>https://ying0515.github.io/tags/web-api/</link>
+      <pubDate>Wed, 29 Jun 2016 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/tags/web-api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure</title>
+      <link>https://ying0515.github.io/tags/azure/</link>
+      <pubDate>Sun, 26 Jun 2016 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/tags/azure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>https://ying0515.github.io/tags/web/</link>
+      <pubDate>Sun, 26 Jun 2016 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UML</title>
+      <link>https://ying0515.github.io/tags/uml/</link>
+      <pubDate>Sun, 24 Apr 2016 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/tags/uml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>軟體架構</title>
+      <link>https://ying0515.github.io/tags/%E8%BB%9F%E9%AB%94%E6%9E%B6%E6%A7%8B/</link>
+      <pubDate>Sun, 24 Apr 2016 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/tags/%E8%BB%9F%E9%AB%94%E6%9E%B6%E6%A7%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOps</title>
+      <link>https://ying0515.github.io/tags/devops/</link>
+      <pubDate>Sun, 10 Apr 2016 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>軟體需求</title>
+      <link>https://ying0515.github.io/tags/%E8%BB%9F%E9%AB%94%E9%9C%80%E6%B1%82/</link>
+      <pubDate>Sun, 13 Mar 2016 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/tags/%E8%BB%9F%E9%AB%94%E9%9C%80%E6%B1%82/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visual Studio 2015</title>
+      <link>https://ying0515.github.io/tags/visual-studio-2015/</link>
+      <pubDate>Sun, 21 Feb 2016 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/tags/visual-studio-2015/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>https://ying0515.github.io/tags/javascript/</link>
+      <pubDate>Sat, 12 Dec 2015 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>前端工程</title>
+      <link>https://ying0515.github.io/tags/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B/</link>
+      <pubDate>Thu, 29 Oct 2015 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/tags/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AngularJS</title>
+      <link>https://ying0515.github.io/tags/angularjs/</link>
+      <pubDate>Sat, 12 Sep 2015 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/tags/angularjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ASP.NET</title>
+      <link>https://ying0515.github.io/tags/asp.net/</link>
+      <pubDate>Sun, 06 Sep 2015 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/tags/asp.net/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LINQ</title>
+      <link>https://ying0515.github.io/tags/linq/</link>
+      <pubDate>Sun, 06 Sep 2015 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/tags/linq/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ASP.NET MVC</title>
+      <link>https://ying0515.github.io/tags/asp.net-mvc/</link>
+      <pubDate>Sun, 26 Jul 2015 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/tags/asp.net-mvc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>.NET</title>
+      <link>https://ying0515.github.io/tags/.net/</link>
+      <pubDate>Sat, 16 May 2015 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/tags/.net/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AutoTest</title>
+      <link>https://ying0515.github.io/tags/autotest/</link>
+      <pubDate>Sat, 16 May 2015 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/tags/autotest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TDD</title>
+      <link>https://ying0515.github.io/tags/tdd/</link>
+      <pubDate>Sat, 16 May 2015 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/tags/tdd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>口語表達</title>
+      <link>https://ying0515.github.io/tags/%E5%8F%A3%E8%AA%9E%E8%A1%A8%E9%81%94/</link>
+      <pubDate>Sun, 25 Jan 2015 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/tags/%E5%8F%A3%E8%AA%9E%E8%A1%A8%E9%81%94/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Framework</title>
+      <link>https://ying0515.github.io/tags/framework/</link>
+      <pubDate>Sun, 05 Oct 2014 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/tags/framework/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Identity</title>
+      <link>https://ying0515.github.io/tags/identity/</link>
+      <pubDate>Sun, 05 Oct 2014 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/tags/identity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NuGet</title>
+      <link>https://ying0515.github.io/tags/nuget/</link>
+      <pubDate>Sun, 05 Oct 2014 10:07:47 +0800</pubDate>
+      <guid>https://ying0515.github.io/tags/nuget/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

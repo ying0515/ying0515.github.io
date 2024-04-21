@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xamarin.Forms on Tony的學習筆記</title>
+    <link>https://ying0515.github.io/tags/xamarin.forms/</link>
+    <description>Recent content in Xamarin.Forms on Tony的學習筆記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 29 Oct 2016 10:07:47 +0600</lastBuildDate>
+    <atom:link href="https://ying0515.github.io/tags/xamarin.forms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xamarin.Forms掛平台行動應用程式開發實戰</title>
+      <link>https://ying0515.github.io/blog/certificate-3/</link>
+      <pubDate>Sat, 29 Oct 2016 10:07:47 +0600</pubDate>
+      <guid>https://ying0515.github.io/blog/certificate-3/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
